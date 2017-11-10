@@ -1,0 +1,83 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	width: max;
+
+}
+
+p {
+	padding: 20px;
+}
+
+h1 {
+
+	font-family: 'Raleway', sans-serif;
+	background-color: #C0C0C0;
+	color: #7A1F1F;
+	padding: 20px;
+	font-weight: bold;
+	margin: 0;
+}
+
+#slogan {
+	font-family: 'Vollkorn SC', serif;
+	text-align: center;
+	text-decoration-style: italic;
+	background-color: #460085;
+	padding: 20px;
+	margin: 0;
+	color: #FFFBFD;
+}
+
+
+#description {
+	text-align: center;
+	font-family: 'Josefin Slab', serif;
+	background-color: #460085;
+	padding: 20px;
+	margin: 0;
+	color: #FFFBFD;
+}
+
+nav {
+	color: inherit;
+	text-decoration: none;
+	text-align: right;
+	font-family: 'Josefin Slab', serif;
+	background-color: #C0C0C0;
+	color: #7A1F1F;
+	margin: right;
+	padding-right: 20px
+
+}
+
+ul {
+	display:block; 
+	padding: 20px; 
+
+}
+
+li {
+
+
+}
+
+img {
+	width: 100%;
+	margin: 0;
+
+}
+
+h3 {
+	margin: 0;
+	padding: 20px;
+}
+
+
+
+footer {
+	text-align: center;
+}

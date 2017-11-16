@@ -1,0 +1,86 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+img {
+	width:300px;
+}
+body {
+	color:#333;
+	font-family:times, georgia, serif;
+	font-size:16px;
+	line-height:1.3;
+}
+section {
+	padding:5em 0;
+}
+h1 {
+	font-family: 'Raleway', sans-serif;
+	color: #7A1F1F;
+	padding: 20px;
+	font-weight: bold;
+	float: left;
+}
+#intro {
+	text-align: center;
+	background: url(../images/3591.jpg);
+	background-size: cover;
+	color: #FFFBFD;
+	padding: 10em 0 0;
+	height: 90vh;
+}
+#services {
+	background: rgb(39, 83, 254);
+	color:#fff;
+}
+#slogan {
+	font-family: 'Vollkorn SC', serif;
+	font-style: italic;
+	margin-bottom: .5em;
+	font-size: 2em;
+}
+#description {
+	font-family: 'Josefin Slab', serif;
+	width: 600px;
+	margin: auto;
+}
+#events {
+	background-color: #efeff2;
+}
+
+#about {
+	background-color: #efeff2;
+
+}
+
+#competition {
+	color:#fff;
+	background: rgb(39, 83, 254);
+}
+nav {
+	float:right;
+}
+nav a {
+	color: inherit;
+	text-decoration: none;
+	font-family: 'Josefin Slab', serif;
+	color: #fff;
+	padding: 1em 2em;
+	display: inline-block;
+}
+ul {
+	padding-left:1.25em;
+}
+footer {
+	text-align: center;
+	background-color: #efeff2;
+}
+
+form {
+	text-align: left;
+}
+
+.contact {
+	text-align: center;
+}

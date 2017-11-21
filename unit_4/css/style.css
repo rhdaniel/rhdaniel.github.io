@@ -4,7 +4,8 @@
 	box-sizing: border-box;
 }
 img {
-	width:300px;
+	width:800px;
+	margin-left: 20em;
 }
 body {
 	color:#333;

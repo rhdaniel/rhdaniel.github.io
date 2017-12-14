@@ -85,3 +85,34 @@ form {
 .contact {
 	text-align: center;
 }
+
+#two_column {
+    background-color: #efeff2;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: rgb(39, 83, 254);
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%
+}
+
+#right {
+    background-color: rgb(39, 83, 254);
+    border: 1px black solid;
+    padding: 20px;
+    float: right;
+    width: 62%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
